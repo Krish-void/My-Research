@@ -1,0 +1,16 @@
+Copy of Energery Dataset.ipynb
+
+# Large research datasets
+*.txt
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated model files
+*.pkl
+*.joblib
+*.pt
+*.pth
